@@ -6,7 +6,9 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Just-Posted-Code
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+```link
+https://iicoding4life.github.io/c4l/bloxburgmoney.lua
+```
 
 ```markdown
 local Players = game.Players
