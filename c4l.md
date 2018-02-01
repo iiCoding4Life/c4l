@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## YAS
 
 You can use the [editor on GitHub](https://github.com/iiCoding4Life/c4l/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
